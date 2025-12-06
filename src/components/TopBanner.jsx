@@ -7,7 +7,7 @@ const TopBanner = () => {
              pt-20 md:pt-12'>
 
         {/* Banner image */}
-        <img src="/src/assets/person2.png" alt="" className='bg-cover size-60 self-center
+        <img src="/person2.png" alt="" className='bg-cover size-60 self-center
         md:size-80 shrink-0 drop-shadow-lg'/>
 
         {/* Banner text and button */}

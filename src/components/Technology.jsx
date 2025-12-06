@@ -4,7 +4,7 @@ const Technology = () => {
   return (
     <section id='technology'>
 
-        <div style={{backgroundImage: "url('/src/assets/background1.jpg')"}}
+        <div style={{backgroundImage: "url('/background1.jpg')"}}
         className='relative bg-cover h-[500px] bg-fixed'>
         
             <div className="backdrop-blur-md text-white p-7 h-full

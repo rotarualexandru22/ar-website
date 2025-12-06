@@ -1,16 +1,34 @@
-# React + Vite
+# 🛒 AR Sales Business Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This repository contains the code for a professional, responsive business website designed for "AR Sales." The site serves as a clean, modern showcase for the company's services, products, and testimonials, with a strong focus on effective presentation and user experience.
 
-Currently, two official plugins are available:
+## Key Features
+* **Modern & Responsive Design:** Built using **React.js** and styled with **Tailwind CSS** to ensure a high-quality, adaptive interface on all devices.
+* **Clear Structure:** Includes dedicated sections for Home, Services, Products, and Testimonials, following best practices for business site architecture.
+* **Call to Action:** Features prominent elements designed to guide user engagement.
+* **Component-Based Architecture:** Uses reusable React components for scalability and maintainability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technology Stack
+* **Framework:** React.js
+* **Styling:** Tailwind CSS (Utility-First)
+* **Build Tool:** Vite
+* **Deployment:** Vercel
 
-## React Compiler
+## ⚙️ Local Installation and Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Prerequisites:** Node.js (LTS recommended)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/rotarualexandru22/ar-website
+    cd ar-website
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install 
+    ```
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```

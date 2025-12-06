@@ -12,7 +12,7 @@ const ProductsServices = () => {
 
             {/* Card 1 */}
             <div className='rounded-lg shadow-lg border'>
-              <img src="/src/assets/acer.jpg" alt="" className='bg-cover h-60 w-full'/>
+              <img src="/acer.jpg" alt="" className='bg-cover h-60 w-full'/>
               <div className="p-3">
                 <h3 className='text-2xl font-semibold'>Products</h3>
                 <p className=''>We provide tailored services to help your business grow, from strategy planning to full implementation support.</p>
@@ -24,7 +24,7 @@ const ProductsServices = () => {
 
             {/* Card 2 */}
             <div className='rounded-lg shadow-lg border'>
-              <img src="/src/assets/team.jpg" alt="" className='bg-cover h-60 w-full'/>
+              <img src="/team.jpg" alt="" className='bg-cover h-60 w-full'/>
               <div className="p-3">
                 <h3 className='text-2xl font-semibold'>Services</h3>
                 <p className=''>Discover our wide range of high-quality products, designed to meet every need and ensure customer satisfaction.</p>
@@ -35,7 +35,7 @@ const ProductsServices = () => {
 
             {/* Card 3 */}
             <div className='rounded-lg shadow-lg border md:hidden xl:block'>
-              <img src="/src/assets/hands.jpg" alt="" className='bg-cover h-60 w-full'/>
+              <img src="/hands.jpg" alt="" className='bg-cover h-60 w-full'/>
               <div className="p-3">
                 <h3 className='text-2xl font-semibold'>Connections</h3>
                 <p className=''>Building strong connections is at the heart of what we do, connecting clients, partners, and communities seamlessly.</p>

@@ -32,7 +32,7 @@ const Testimonials = () => {
                     </div>
                 {/* Avatar profile */}
                 <div className="flex items-center space-x-3">
-                    <img src="/src/assets/person4.jpg" alt="" 
+                    <img src="/person4.jpg" alt="" 
                     className='size-24 rounded-full'/>
                     <div className="text-slate-800">
                         <h5 className='font-bold'>Alex Carter</h5>
@@ -64,7 +64,7 @@ const Testimonials = () => {
                     </div>
                 {/* Avatar profile */}
                 <div className="flex items-center space-x-3">
-                    <img src="/src/assets/person3.jpg" alt="" 
+                    <img src="/person3.jpg" alt="" 
                     className='size-24 rounded-full'/>
                     <div className="text-slate-800">
                         <h5 className='font-bold'>Daniel Roberts</h5>
@@ -95,7 +95,7 @@ const Testimonials = () => {
                     </div>
                 {/* Avatar profile */}
                 <div className="flex items-center space-x-3">
-                    <img src="/src/assets/person2.jpg" alt="" 
+                    <img src="/person2.jpg" alt="" 
                     className='size-24 rounded-full'/>
                     <div className="text-slate-800">
                         <h5 className='font-bold'>Emily Thompson</h5>
@@ -126,7 +126,7 @@ const Testimonials = () => {
                     </div>
                 {/* Avatar profile */}
                 <div className="flex items-center space-x-3">
-                    <img src="/src/assets/person1.jpg" alt="" 
+                    <img src="/person1.jpg" alt="" 
                     className='size-24 rounded-full'/>
                     <div className="text-slate-800">
                         <h5 className='font-bold'>Michael Lee</h5>
