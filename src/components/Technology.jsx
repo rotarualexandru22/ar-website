@@ -9,12 +9,13 @@ const Technology = () => {
         
             <div className="backdrop-blur-md text-white p-7 h-full
             w-full md:w-[750px] md:absolute md:top-00 md:right-0 lg:w-[850px]
-            overflow-hidden">
+            overflow-y-auto">
                 <h3 className="font-bold text-2xl my-2">Excelent Products and Customer Service</h3>
                 <p className='text-justify bg-black/50 p-3 rounded-xl'>At AR Sales, we pride ourselves on delivering not only outstanding products but also exceptional customer service. Our team ensures every client receives personalized support and guidance, making every interaction seamless and satisfying.</p>
                 <div className="text-right p-5">
                     <button className='bg-orange-600 px-5 py-2 rounded cursor-pointer
-                    hover:bg-orange-700 duration-300'>Read more...</button>
+                    hover:bg-orange-700 active:bg-orange-700
+                    duration-300'>Read more...</button>
                 </div>
 
                 <h3 className="font-bold text-2xl my-2">Customizing all processes</h3>

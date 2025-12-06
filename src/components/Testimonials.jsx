@@ -22,7 +22,7 @@ const Testimonials = () => {
                         been simple: deliver results that speak for themselves....
 
                         <button className='bg-orange-600 rounded text-white text-sm
-                        px-2 ml-2 hover:bg-orange-700 cursor-pointer'>Read more</button>
+                        px-2 ml-2 hover:bg-orange-700 active:bg-orange-700 cursor-pointer'>Read more</button>
 
                         <div className="absolute">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="size-8 fill-slate-600" viewBox="0 0 16 16">
@@ -54,7 +54,7 @@ const Testimonials = () => {
                         of our DNA....
 
                         <button className='bg-orange-600 rounded text-white text-sm
-                        px-2 ml-2 hover:bg-orange-700 cursor-pointer'>Read more</button>
+                        px-2 ml-2 hover:bg-orange-700 active:bg-orange-700 cursor-pointer'>Read more</button>
 
                         <div className="absolute">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="size-8 fill-slate-600" viewBox="0 0 16 16">
@@ -85,7 +85,7 @@ const Testimonials = () => {
                        Seeing our strategies turn into real success stories 
                        is what makes this work truly rewarding....
                         <button className='bg-orange-600 rounded text-white text-sm
-                        px-2 ml-2 hover:bg-orange-700 cursor-pointer'>Read more</button>
+                        px-2 ml-2 hover:bg-orange-700 active:bg-orange-700 cursor-pointer'>Read more</button>
 
                         <div className="absolute">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="size-8 fill-slate-600" viewBox="0 0 16 16">
@@ -116,7 +116,7 @@ const Testimonials = () => {
                         toward what matters most....
 
                         <button className='bg-orange-600 rounded text-white text-sm
-                        px-2 ml-2 hover:bg-orange-700 cursor-pointer'>Read more</button>
+                        px-2 ml-2 hover:bg-orange-700 active:bg-orange-700 cursor-pointer'>Read more</button>
 
                         <div className="absolute">
                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="size-8 fill-slate-600" viewBox="0 0 16 16">

@@ -20,11 +20,13 @@
         @apply px-4 py-2 border border-orange-800 rounded-lg
         w-full m-3 hover:bg-orange-500/30 hover:scale-95 ease-out duration-500
         transition-all mx-auto mt-7 md:mt-14 cursor-pointer
+        active:bg-orange-500/30 active:scale-95
     }
 
     .btn-secondary {
         @apply border border-orange-600 hover:bg-orange-100
         hover:scale-95 ease-out duration-500 transition-all
         px-4 py-1 rounded-lg mx-5 my-7 cursor-pointer
+        active:scale-95 active:bg-orange-100
     }
 }
